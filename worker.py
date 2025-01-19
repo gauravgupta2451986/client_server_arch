@@ -36,7 +36,7 @@ def fetch_result_from_api_and_store(operation, num1, num2):
 def main():
     # Example operations to test
     tasks = [
-        ("sum", 10, 5),
+        ("sum", 25, 5),
         ("sub", 15, 7),
         ("mul", 3, 9),
         ("Div", 12, 4),
